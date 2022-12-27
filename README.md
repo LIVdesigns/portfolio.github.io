@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
 
 <h1>Olivia Guillermo</h1>
 <p>Digital Media Artist</p>
