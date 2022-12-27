@@ -1,9 +1,9 @@
 <html>
-<body {background-color: #DBF9FC;}>
+<body style="background-color:DarkSlateGrey;">
 
-<h1 style="font-size:60px;">Olivia Guillermo
+<h1 style="font-size:60px;""background-color:white;">Olivia Guillermo
   
-<p>Digital Media Artist</p>
+<p style="background-color:white;">Digital Media Artist</p>
   
 </body>
 </html>
